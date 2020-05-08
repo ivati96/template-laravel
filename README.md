@@ -1,2 +1,2 @@
-# template-laravel
-Template laravel
+# Template Laravel
+Laravel template para inicializar proyectos.
